@@ -1,3 +1,3 @@
 # test
-This is my firt git ripository
+This is my first git ripository
 Author - Aditya Singh
